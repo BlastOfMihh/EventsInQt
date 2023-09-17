@@ -4,7 +4,7 @@ This is an application made using the QT framework with C++ and layerd architect
 
 The application's purpose is to provide a GUI for managing events.
 
-It provides 2 different window types. One for event organisers and one for event participants. The live synchronisation between all the openened windows is done using the Obsserver design pattern.
+It provides window types for event organisers and for event participants. The live synchronisation between all the openened windows is done using the Obsserver design pattern.
 
 ![The image of the application](screenshots/all_windows.png)
 
