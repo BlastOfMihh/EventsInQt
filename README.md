@@ -1,4 +1,4 @@
-# DriversQt
+# EvetnsInQt
 
 This is an application made using the QT framework with C++ and layerd architecture.
 
