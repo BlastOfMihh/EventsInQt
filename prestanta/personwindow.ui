@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>personwindow</class>
+ <widget class="QWidget" name="personwindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>655</width>
+    <height>574</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>personwindow</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="positionLabel">
+     <property name="text">
+      <string>position</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QCheckBox" name="viewCloseCheck">
+     <property name="text">
+      <string>Close</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QListWidget" name="eventList"/>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="eventName">
+     <property name="text">
+      <string>Name</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="eventDescription">
+     <property name="text">
+      <string>Desc</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="eventX">
+     <property name="text">
+      <string>0</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="eventY">
+     <property name="text">
+      <string>0</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="eventDate">
+     <property name="text">
+      <string>00/00/0000</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="submitEvent">
+     <property name="text">
+      <string>Submit Event</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="goingButton">
+     <property name="text">
+      <string>GoingButton</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="eventDescriptionEdit">
+     <property name="text">
+      <string>description</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="eventDateEdit">
+     <property name="text">
+      <string>deit</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="attendingLabel">
+     <property name="text">
+      <string>Attending:</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="updateEvent">
+     <property name="text">
+      <string>Update Date and Description</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
