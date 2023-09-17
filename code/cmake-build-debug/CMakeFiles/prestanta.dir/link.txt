@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/prestanta.dir/prestanta_autogen/mocs_compilation.cpp.o CMakeFiles/prestanta.dir/main.cpp.o CMakeFiles/prestanta.dir/personwindow.cpp.o CMakeFiles/prestanta.dir/bestwindow.cpp.o -o prestanta  /usr/lib/libQt6Widgets.so.6.5.2 /usr/lib/libQt6Gui.so.6.5.2 /usr/lib/libQt6Core.so.6.5.2 /usr/lib/libGLX.so /usr/lib/libOpenGL.so 

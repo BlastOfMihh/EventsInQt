@@ -1,0 +1,4 @@
+/home/mihh/Gits/EventsInQt/code/cmake-build-debug/CMakeFiles/prestanta.dir
+/home/mihh/Gits/EventsInQt/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mihh/Gits/EventsInQt/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mihh/Gits/EventsInQt/code/cmake-build-debug/CMakeFiles/prestanta_autogen.dir
